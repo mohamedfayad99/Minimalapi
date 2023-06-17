@@ -1,0 +1,16 @@
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\MinimalVilla.exe
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\MinimalVilla.dll
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\MinimalVilla.deps.json
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\MinimalVilla.runtimeconfig.json
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\MinimalVilla.pdb
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\AutoMapper.dll
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\FluentValidation.dll
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\FluentValidation.DependencyInjectionExtensions.dll
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\For Learning\The Basics\.Net\Projects\MinimalVillaAPi\MinimalVilla\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
